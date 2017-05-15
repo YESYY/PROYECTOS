@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "holamundo.com"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "holamundo.com"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "holamundo.com"
+        }
+    }
+}
